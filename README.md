@@ -2,7 +2,7 @@
 <h3 align="left">I'm an Associate Team Lead: Backend, from Jabalpur</h3>
 
 <p align="left">
-  With a passion for backend development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at [Your Company Name], where I lead a team of talented developers.
+  With a passion for backend development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at Cognam, where I lead a team of talented developers.
 </p>
 
 <div align="center">
@@ -15,9 +15,13 @@
 <div align="left">
   <h4>Programming Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   
