@@ -98,3 +98,6 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ShubhamChouksey123/ShubhamChouksey123/output/snake.svg" alt="Snake animation" />
+
+
+![snake gif](https://github.com/ShubhamChouksey123/ShubhamChouksey123/blob/output/github-contribution-grid-snake.gif)
