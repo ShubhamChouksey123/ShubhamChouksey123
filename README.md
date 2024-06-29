@@ -81,7 +81,7 @@
 <h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://quiz-website-g8d7.onrender.com/">Quiz Website</a>: Embark on your quiz journey by visiting the Quiz Website.</li>
-  <li><a href="https://github.com/ShubhamChouksey123/portfolio">Portfolio Website </a>: To explore my portfolio website.</li>
+  <li><a href="https://shubhamchouksey123.github.io/portfolio/">Portfolio Website </a>: To explore my portfolio website.</li>
   <li><a href="https://shubhamchouksey123.github.io/autoCV/cv.pdf">My Resume</a>: Checkout my latest updated Resume.</li>
   <!-- Add more projects as needed -->
 </ul>
