@@ -5,10 +5,21 @@
   With a passion for backend development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at Cognam, where I lead a team of talented developers.
 </p>
 
+## 📊 Github Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChouksey123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamChouksey123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+![](https://visitcount.itsvg.in/api?id=ShubhamChouksey123&label=Profile%20Visitors&color=0&icon=7&pretty=true)
+
 </div>
+
+<div align="center">
+   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShubhamChouksey123&theme=dracula&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=0C77FF" width="45%" alt="@ShubhamChouksey123's github-readme-stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChouksey123&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=0C77FF" width="45%"    alt="@ShubhamChouksey123's github-readme-streak-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChouksey123&theme=dracula&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="30%"> 
+</div>
+
+![](https://github-profile-trophy.vercel.app/?username=heir-of-god&theme=algolia&no-bg=true&no-frame=true)
 
 <h2 align="left">Skills</h2>
 
