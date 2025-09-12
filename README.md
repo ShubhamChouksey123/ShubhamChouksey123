@@ -117,4 +117,4 @@
 <br clear="both">
 
 
-![snake gif](https://github.com/ShubhamChouksey123/ShubhamChouksey123/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/ShubhamChouksey123/ShubhamChouksey123/output/github-contribution-grid-snake.gif)
